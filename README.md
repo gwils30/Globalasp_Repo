@@ -33,7 +33,7 @@ Class person
 Traceback (most recent call last):
     2: from /usr/bin/irb:23:in '<main>'
     1: from (main):1
-Runtime(Error: This is a custome error messadage
+Runtime(Error: This is a custom error message
 ```
 
 
