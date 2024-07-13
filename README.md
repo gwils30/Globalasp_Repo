@@ -40,7 +40,9 @@ RuntimeError: This is a custom error message
 
 > Here is an example of using a codeblock for an error that appears in bash.
 
-- [ ] Finish Step 1
+Github extends Markdown to have a list whwere you can check off items. [<sup> [2] </sup>] (#external-references)
+
+- [x] Finish Step 1
 - [ ] Finish Step 2
 - [ ] Finish Step 3      
 
@@ -48,7 +50,7 @@ RuntimeError: This is a custom error message
 | Name | Shortcode | Emoji |
 ```
 
-## References
+## External-References
 
 - ([https://github.com/octo-org/octo-repo/issues/7400](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 - ([https://github.com/octo-org/octo-repo/issues/740](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings))
