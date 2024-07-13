@@ -25,7 +25,7 @@ Class person
   end
  end
 ```
-Github extends Markdown to have a list whwere you can check off items. [<sup>[2]</sup>](#external-references)
+Github extends Markdown to have a list where you can check off items. [<sup>[2]</sup>](#list-items)
 
 
 ![me_photo](https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10)
@@ -45,6 +45,7 @@ RuntimeError: This is a custom error message
 
 Github extends Markdown to have a list whwere you can check off items. [<sup>[2]</sup>](#external-references)
 
+## list-items
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [ ] Finish Step 3      
@@ -53,7 +54,7 @@ Github extends Markdown to have a list whwere you can check off items. [<sup>[2]
 | Name | Shortcode | Emoji |
 ```
 
-## External-References
+## References
 
 - ([https://github.com/octo-org/octo-repo/issues/7400](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 - ([https://github.com/octo-org/octo-repo/issues/740](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings))
