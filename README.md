@@ -29,6 +29,8 @@ Class person
 
 <img width="200px" src="https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10" />
 
+This is an example of an error of a codeblock that appears in bash
+
 ``` bash
 Traceback (most recent call last):
     2: from /usr/bin/irb:23:in '<main>'
