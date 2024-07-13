@@ -25,6 +25,9 @@ Class person
   end
  end
 ```
+Github extends Markdown to have a list whwere you can check off items. [<sup>[2]</sup>](#external-references)
+
+
 ![me_photo](https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10)
 
 <img width="200px" src="https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10" />
