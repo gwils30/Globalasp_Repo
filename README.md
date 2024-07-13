@@ -38,4 +38,4 @@ Traceback (most recent call last):
 RuntimeError: This is a custom error message
 ```
 
- Here is an example of using a codeblock for an error that appears in bash.
+> Here is an example of using a codeblock for an error that appears in bash.
