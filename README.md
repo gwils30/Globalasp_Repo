@@ -44,6 +44,10 @@ RuntimeError: This is a custom error message
 - [ ] Finish Step 2
 - [ ] Finish Step 3      
 
+``` md
+| Name | Shortcode | Emoji |
+```
+
 ## References
 
 - ([https://github.com/octo-org/octo-repo/issues/7400](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
