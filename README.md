@@ -40,7 +40,7 @@ RuntimeError: This is a custom error message
 
 > Here is an example of using a codeblock for an error that appears in bash.
 
-Github extends Markdown to have a list whwere you can check off items. [<sup> [2] </sup>] (#external-references)
+Github extends Markdown to have a list whwere you can check off items. [<sup>[2]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
