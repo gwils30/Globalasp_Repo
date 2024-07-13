@@ -29,4 +29,11 @@ Class person
 
 <img width="200px" src="https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10" />
 
+``` bash
+Traceback (most recent call last):
+    2: from /usr/bin/irb:23:in '<main>'
+    1: from (main):1
+Runtime(Error: This is a custome error messadage
+```
+
 
