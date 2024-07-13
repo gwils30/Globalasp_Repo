@@ -39,3 +39,9 @@ RuntimeError: This is a custom error message
 ```
 
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## References
+
+*https://github.com/octo-org/octo-repo/issues/740
+*https://github.com/octo-org/octo-repo/issues/740
+
