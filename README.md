@@ -25,3 +25,6 @@ Class person
   end
  end
 ```
+![me_photo](https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10)
+
+
