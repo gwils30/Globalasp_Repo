@@ -31,7 +31,7 @@ Class person
 
 This is an example of an error of a codeblock that appears in bash
 
-``` bash
+``` ruby
 Traceback (most recent call last):
     2: from /usr/bin/irb:23:in '<main>'
     1: from (irb):1
