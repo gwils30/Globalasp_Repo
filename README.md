@@ -9,6 +9,8 @@ A good cloud engineer uses Codeblocks whenever possible because it allows others
 
 
 In Order to create codeblocks in markdown you need to use three backsticks (```) not to be conffused with quotations which is the @' button without shift. 
+
+``` ruby
 # Define a person class
 
 Class person
@@ -22,3 +24,4 @@ Class person
  "Hello, my name is #{@name} and I am #{@age} years old."
   end
  end
+```
