@@ -35,7 +35,7 @@ This is an example of an error of a codeblock that appears in bash
 Traceback (most recent call last):
     2: from /usr/bin/irb:23:in '<main>'
     1: from (main):1
-Runtime(Error: This is a custom error message
+RuntimeError: This is a custom error message
 ```
 
 
