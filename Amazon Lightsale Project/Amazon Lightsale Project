@@ -1,8 +1,8 @@
-##Amazon Lightsale WordPress website s3 hosted project
+# Amazon Lightsale WordPress website s3 hosted project
 
 
 
-Deployed WordPress website running on an Amazon Lightsail instance to an Amazon Simple Storage Service (Amazon S3) bucket to store website images and attachments. 
+## Deployed WordPress website running on an Amazon Lightsail instance to an Amazon Simple Storage Service (Amazon S3) bucket to store website images and attachments. 
 I Configured a WordPress plugin with a set of Amazon Web Services (AWS) account credentials. 
 
 
