@@ -27,6 +27,6 @@ Class person
 ```
 ![me_photo](https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10)
 
-<img width=200px" src="https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10" />
+<img width="200px" src="https://github.com/user-attachments/assets/b7c6159d-eee6-477b-a235-62187fb86e10" />
 
 
